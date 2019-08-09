@@ -43,3 +43,8 @@ export enum Events {
   CustomerSelected
 }
 `
+
+### Unsubscribing
+1. unsubscribe()
+2. autounsubscribe package
+3. subsink package.
